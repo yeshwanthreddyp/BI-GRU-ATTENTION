@@ -5,7 +5,6 @@ Bird species detection is crucial for preserving biodiversity as it helps ornith
 
 A user web interface has been created download the zip file and run these commands in cmd prompt 
 pip install streamlit
-cd C:\Users\thena\OneDrive\Desktop
 cd gui
 virtualenv streamlitenv
 streamlitenv\Scripts\activate
